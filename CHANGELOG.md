@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/googleapis/python-billing/compare/v1.4.1...v1.5.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#145](https://github.com/googleapis/python-billing/issues/145)) ([a434c2e](https://github.com/googleapis/python-billing/commit/a434c2eb1ec6a79c36409c6039f05501c9cfc113))
+
 ### [1.4.1](https://www.github.com/googleapis/python-billing/compare/v1.4.0...v1.4.1) (2021-11-01)
 
 
